@@ -11,6 +11,7 @@ namespace FiLoffsLesson1path2
         static void Main(string[] args)
         {
             Console.WriteLine("S.FiL создал проект в существующем репозитории");
+            Console.WriteLine("S.FiL открыл на ноуте. Ура))");
         }
     }
 }
