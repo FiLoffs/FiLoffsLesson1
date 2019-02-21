@@ -10,6 +10,7 @@ namespace FiLoffsLesson1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("S.FiL создал первый репозиторий)");
         }
     }
 }
